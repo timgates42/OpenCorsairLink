@@ -22,7 +22,7 @@
 #include <stdint.h>
 
 /*
- * These two defines are used to translage options into different item:
+ * These two defines are used to translate options into different item:
  *   - an enum for values
  *   - a list of string values 
  *
